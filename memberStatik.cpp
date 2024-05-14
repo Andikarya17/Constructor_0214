@@ -18,4 +18,6 @@ public:
         setID();
     }
 
-}
+};
+
+int mahasiswa::nim = 214;
